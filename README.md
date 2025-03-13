@@ -45,4 +45,5 @@ A simple and user-friendly currency converter built with React.js that allows us
   (1)Select the currencies you want to convert from and to.
   <br/>
   (2)Enter the amount.
+  <br/>
   (3)View the converted currency value instantly.
